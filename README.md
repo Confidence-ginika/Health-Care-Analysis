@@ -15,13 +15,11 @@ Exploratory Data Analysis (EDA)
 •	Summarize patient records by blood group and gender.
 •	Identify hospitals with the highest admission counts.
 •	Compare the average age of patients across medical conditions.
+
+
 Deep Analysis & Insights 
 •	Identify the insurance provider with the highest total billing.
 •	Find the most frequently recorded medication for each medical condition.
 •	Identify the doctor with the highest number of patient records.
 •	Summarize test results overall and across medical conditions.
 •	Review monthly and yearly admission patterns.
-
-
-
-
